@@ -1,6 +1,6 @@
-# mpc-proxy-contract
+# MPC Proxy Contract on Near Protocol
 
-cargo-near-new-project-description
+The contract that allows to proxy sign requests to [MPC contract](https://github.com/nearuaguild/mpc/tree/develop/chain-signatures) with [Function-Call Access Key](https://docs.near.org/concepts/protocol/access-keys)
 
 ## How to Build Locally?
 
